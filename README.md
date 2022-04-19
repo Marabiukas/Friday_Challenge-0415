@@ -18,7 +18,7 @@ Design: https://www.figma.com/file/uaVXnAQh9QxVsUD1RcQEbt/Friday-Challenge?node-
 
 -   Github pages
 -   html
--   CSSS
+-   CSS
 
 ## Authors
 
