@@ -10,7 +10,7 @@ _35 group website project_
 
 This project is part of front-end studies at Baltic Institute of Technologies. 
 
-Site published at: https://
+Site published at: https://marabiukas.github.io/Friday_Challenge-0415/
 
 Design: https://www.figma.com/file/uaVXnAQh9QxVsUD1RcQEbt/Friday-Challenge?node-id=0%3A1
 
